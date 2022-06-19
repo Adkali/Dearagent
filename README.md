@@ -1,8 +1,6 @@
 # README
-* Lately, i made some python friendly beginner challenge game, which in the end of it, well of course - you will receive a flag.
-* Just relax, and dont get too mad while playing it.
+Lately, i made some python friendly beginner challenge game, which in the end of it, well of course - you will receive a flag! Just relax, and dont get too mad while playing it. This is a beginner one, don't be hard with yourself, good luck.
 
-<br>
 
 # Information
 your agency has suffered from a DDos attack, in which made services to shut down temporarily.
